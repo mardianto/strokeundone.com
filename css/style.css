@@ -539,7 +539,7 @@ body.nav-expanded {
 }
 #slides .slide .slide-caption {
     display: block;
-    background: url(../img/body-bg3.png) repeat 0 0;
+    background: url(../img/body-bg3.png) no-repeat center top / cover;
     top: 0;
     right: 0;
     bottom: 0;
