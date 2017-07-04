@@ -876,10 +876,26 @@ body.nav-expanded {
 //     overflow: scroll;
 // }
 
-.about-page-block {
+.pt-80{
+    padding-top: 80px
+}
+
+.about-page-block{
     position: relative;
     padding: 5.5em 0 0em;
     overflow: hidden;
+}
+.about-page-video {
+    border:1px solid gray;
+    background: #fff;
+    position: relative;
+    margin:0 auto;
+    padding: 10px;
+    overflow: hidden;
+}
+video {
+    width: 100%;
+    height: auto;
 }
 .offer h1 {
     margin-top: 0.50em;
